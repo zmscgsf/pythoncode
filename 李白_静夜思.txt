@@ -1,2 +1,26 @@
-'''窗前明月光,疑是地上霜
+﻿'''窗前明月光,疑是地上霜
    举头望明月,低头思故乡'''
+*****************************
+
+$ ssh-keygen -t rsa -b 4096 -C "2010909388@qq.com"
+Generating public/private rsa key pair.
+Enter file in which to save the key (/d/Users/ASUS/.ssh/id_rsa):
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again:
+Your identification has been saved in /d/Users/ASUS/.ssh/id_rsa.
+Your public key has been saved in /d/Users/ASUS/.ssh/id_rsa.pub.
+The key fingerprint is:
+SHA256:nR0sSNCZUxXVHQ9vslYEowgllOQGsuOErvw2QWFi4kQ 2010909388@qq.com
+The key's randomart image is:
++---[RSA 4096]----+
+|.E  . o=**o.oo=++|
+|.+ + o +*+ o . =+|
+|= + =   +.o + . =|
+| o + . . . + . = |
+|  o .   S o . o  |
+|.. .         .   |
+|..  .            |
+|  .o             |
+|  ...            |
++----[SHA256]-----+
+
